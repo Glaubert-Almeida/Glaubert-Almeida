@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, sou Glaubert </h1>
-<h3 align = "center"> Sou um estudante de desenvolvimento de front-end. </h3>
+<h3 align = "center"> Sou um estudante de Engenharia de Software. </h3>
 
 - 🔭 Atualmente estou trabalhando em um tela de boas vindas. [Bem-vindo] (https://github.com/Glaubert-Almeida/recepcao.git)
 
