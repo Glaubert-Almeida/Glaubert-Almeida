@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em um tela de boas vindas. [Bem-vindo] (https://github.com/Glaubert-Almeida/recepcao.git)
 
-- 🌱 Atualmente estou aprendendo Javascript. ** Desenvolvedor front-end. **
+- 🌱 Atualmente estou aprendendo C# e PHP. ** Desenvolvedor Full-Stack. **
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Glaubert-Almeida](https://github.com/Glaubert-Almeida)
 
